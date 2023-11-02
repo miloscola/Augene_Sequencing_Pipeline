@@ -1,0 +1,18 @@
+Single sample abundant species profiling in subcommand run_species with args
+{
+    "subcommand": "run_species",
+    "debug": false,
+    "midas_outdir": "midas2_output",
+    "sample_name": "sample1",
+    "r1": "reads/sample1_R1.trim.fastq",
+    "r2": null,
+    "midasdb_name": "uhgg",
+    "midasdb_dir": "my_midasdb_uhgg",
+    "word_size": 28,
+    "aln_mapid": null,
+    "aln_cov": 0.75,
+    "marker_reads": 2,
+    "marker_covered": 2,
+    "max_reads": null,
+    "num_cores": 4
+}

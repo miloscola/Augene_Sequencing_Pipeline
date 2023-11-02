@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	c2671_R1	/home/miloscola/ab/pipe/qual_rep_temp/c2671_R1_fastqc.zip
+FastQC	all_sections	c2671_R2	/home/miloscola/ab/pipe/qual_rep_temp/c2671_R2_fastqc.zip
+FastQC	all_sections	sample1_R1	/home/miloscola/ab/pipe/qual_rep_temp/sample1_R1_fastqc.zip
+FastQC	all_sections	sample2_R1	/home/miloscola/ab/pipe/qual_rep_temp/sample2_R1_fastqc.zip
