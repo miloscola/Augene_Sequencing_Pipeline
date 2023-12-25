@@ -1,4 +1,12 @@
-pipe/midas2_tests/
-pipe/reads/
-pipe/untrimmed_fastq/
-pipe/my_midasdb_uhgg/
+midas_pipe/
+kraken_pipe/adapters
+kraken_pipe/bracken_outputs
+kraken_pipe/breports
+kraken_pipe/kraken_analysis
+kraken_pipe/kraken_reports
+kraken_pipe/krona_temp
+kraken_pipe/my_kraken_db
+kraken_pipe/qual_rep_temp
+kraken_pipe/test_db
+kraken_pipe/trimmed_reads
+kraken_pipe/untrimmed_reads
