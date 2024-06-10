@@ -12,10 +12,10 @@ kraken_pipe/test_db/*
 kraken_pipe/trimmed_reads/*
 kraken_pipe/untrimmed_reads/*
 data_processing/kraken_data/*
-data_processing/qiime2_data/*
-SKINOME_training_data/paired_proc/*
-SKINOME_training_data/paired_unproc/*
-SKINOME_training_data/qza_files/*
+SKINOME_training_data/no_trim_test/*
+SKINOME_training_data/summary_o/*
+SKINOME_training_data/sorted_reads/*
 SKINOME_training_data/seq_reads/*
-SKINOME_training_data/unpaired_proc/*
+SKINOME_training_data/temp/*
 SKINOME_training_data/unpaired_unproc/*
+SKINOME_training_data/classifier/*
