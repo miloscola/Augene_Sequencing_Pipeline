@@ -13,7 +13,7 @@ kraken_pipe/trimmed_reads/*
 kraken_pipe/untrimmed_reads/*
 data_processing/kraken_data/*
 SKINOME_training_data/no_trim_test/*
-SKINOME_training_data/summary_o/*
+#SKINOME_training_data/summary_o/*
 SKINOME_training_data/sorted_reads/*
 SKINOME_training_data/seq_reads/*
 SKINOME_training_data/temp/*
