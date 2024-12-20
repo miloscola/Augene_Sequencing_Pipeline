@@ -11,7 +11,7 @@ The Augene Profile Pipeline is responsible for:
 
 ## Usage:
 
-**Data Scraping: **
+**Data Scraping:**
 
 Activate the Qiime2 environment and run SKINOME_training_data/data_downloader. This script will download sequencing data from skin microbiome papers listed in DataFrame_2_Pruned. DataFrame_2_Pruned was generated with code modified from the [Skinome Project](https://academic.oup.com/database/article/doi/10.1093/database/baac033/6586378). Papers were filtered to only contain microbiomes classified as healthy, atopic dermatitis, psoriasis, parapsoriasis, or acne. Papers were only included if they used swabs to collect samples and Illumina sequencing for standardization. 
 
