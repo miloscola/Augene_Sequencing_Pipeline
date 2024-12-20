@@ -27,3 +27,5 @@ Activate the Qiime2 environment and run SKINOME_training_data/QIIME2_pipeline. E
 **Generate Diagnosis: (TODO)**
 
 Data may lack necessary resolution for proper classification. 
+
+The data_processing and data_vis folders contain old code
