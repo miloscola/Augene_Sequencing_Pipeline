@@ -1,6 +1,6 @@
-[html-to-markdown.md.txt](https://github.com/user-attachments/files/18208154/html-to-markdown.md.txt)![Augene_Beauty_logo](https://github.com/user-attachments/assets/9b612810-b6fe-485d-a870-d98ae53c73e9)
-The Augene Profile Pipeline is responsible for:
+(https://github.com/user-attachments/files/18208154/html-to-markdown.md.txt)![Augene_Beauty_logo](https://github.com/user-attachments/assets/9b612810-b6fe-485d-a870-d98ae53c73e9)
 
+The Augene Profile Pipeline is responsible for:
 
 
 1. Scraping and downloading microbiome profile data from scientific papers
