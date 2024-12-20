@@ -9,7 +9,7 @@ The Augene Profile Pipeline is responsible for:
 4. Generating a diagnosis from the microbiome profile with machine learning (TODO)
 
 ## Krona Graph Showing Microbiome Profile by Taxanomic Level:
-![Screenshot 2024-12-20 005115](https://github.com/user-attachments/assets/0aa5b7ea-1bef-40ef-9a68-dc0834f78f7c)
+[View Visualization](kraken_pipe/b_krona_html/SRR14092160.krona.html)
 
 
 ## Usage:
