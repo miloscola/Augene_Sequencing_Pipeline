@@ -1,6 +1,6 @@
 ![Augene_Beauty_logo](https://github.com/user-attachments/assets/84520cca-6e4a-40f1-8aff-8767a34bc5fb)
 
-The Augene Profile Pipeline is responsible for:
+## Function:
 
 
 1. Scraping and downloading microbiome profile data from scientific papers
