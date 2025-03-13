@@ -6,7 +6,7 @@
 1. Scraping and downloading microbiome profile data from scientific papers
 2. Performing batch correction and data processing
 3. Generating microbiome profiles from raw reads
-4. Generating a diagnosis from the microbiome profile with machine learning (TODO)
+4. Generating a diagnosis from the microbiome profile with machine learning (IN PROGRESS)
 
 ## Krona Graph Showing Microbiome Profile by Taxanomic Level:
 ![image](https://github.com/user-attachments/assets/b49d1bbc-5312-4a6b-9a10-1e185e901a45)
